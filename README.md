@@ -1,2 +1,2 @@
 # Curriculum-vitae
- this repository contains my curriculum vitae
+ this repository contains my curriculum vitae.
